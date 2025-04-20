@@ -17,7 +17,7 @@ The main purpose of this project is to practice working with HTML forms, JavaScr
 
 No dependencies are required. This is a fully front-end project built with HTML, CSS, and JavaScript.
 
-## Known Bugs
+## Known Bugs"
 
 There are currently no known bugs.  
 If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
