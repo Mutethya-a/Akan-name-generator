@@ -13,7 +13,7 @@ The main purpose of this project is to practice working with HTML forms, JavaScr
 * Clone or download the repository from GitHub  
 * Navigate to the project folder  
 * Open `index.html` in any modern browser  
-* Alternatively, visit the live version on Vercel: [Live App](https://your-vercel-project-url.vercel.app)
+* Alternatively, visit the live version on Vercel: [Live App](https://akan-name-generator-ten.vercel.app/)
 
 No dependencies are required. This is a fully front-end project built with HTML, CSS, and JavaScript.
 
